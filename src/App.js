@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import './App.css';
 
-const API_URL = 'http://www.omdbapi.com/?apikey=c5871e50';
+const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=c5871e50';
 
 const App =() => {
   const searchMovies= async (title)=> {
@@ -28,6 +28,9 @@ searchMovies(`Spiderman`);
      alt="search"
      onClick={() => {}}
      />
+     </div>
+     <div className="container">
+
      </div>
     </div>
   );
