@@ -23,6 +23,8 @@ searchMovies(`Spiderman`);
      value="Sistas"
      onChange={() => {}}
      />
+     <img
+     />
      </div>
     </div>
   );
