@@ -21,7 +21,7 @@ searchMovies(`Spiderman`);
      <input
      placeholder="search for movies"
      value="Sistas"
-     
+     onChange={() => {}}
      />
      </div>
     </div>
