@@ -24,6 +24,9 @@ searchMovies(`Spiderman`);
      onChange={() => {}}
      />
      <img
+     src="SearchIcon"
+     alt="search"
+     onClick={() => {}}
      />
      </div>
     </div>
